@@ -12,8 +12,8 @@ To learn and understadn more about the git and github
 
 ## Deployment
 
-In the deployment we use the GIT
-
+In the deployment we use the GIT to exercise what we understand
+and pull request first before pushing.
 ## How to Contribute
 
 TO contribute you need to Pull and push
