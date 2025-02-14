@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello my world!
-=======
-hello singkamas
->>>>>>> simple-changes
+Hello singkamas
