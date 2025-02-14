@@ -1,3 +1,9 @@
-# git_test
-my first github repo
-Hello Odin!
+# Starter Web Project
+
+## Introduction
+
+## Purpose
+
+## Deployment
+
+## Hot to Contribute
