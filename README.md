@@ -12,4 +12,8 @@ To learn and understadn more about the git and github
 
 ## Deployment
 
-## Hot to Contribute
+In the deployment we use the GIT
+
+## How to Contribute
+
+TO contribute you need to Pull and push
